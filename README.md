@@ -1,29 +1,14 @@
 # contador-vuex
 
+<img src="/images/preview.jpg" >
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Vue UI
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+vue ui
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
